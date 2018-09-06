@@ -1,2 +1,2 @@
 # Notification Application
-Notification Application to Application (NA2A)
+GEX Notification Application to Application (GEX_NA2A)
